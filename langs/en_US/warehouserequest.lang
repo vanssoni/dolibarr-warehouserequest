@@ -1,0 +1,59 @@
+# Copyright (C) 2023 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+Successfullyupdated = Line items have been successfully moved to the sales order, and a shipment has been created.
+ValidateWarehouserequest = Validate Warehouse Request
+ConfirmValidatewarehouserequest = Are you certain you wish to proceed with validation? This action will include the chosen line item in the sales order and generate a shipment for it.
+warehouserequest = Warehouse Request
+
+# Module label 'ModuleWarehouserequestName'
+ModuleWarehouserequestName = Warehouserequest
+# Module description 'ModuleWarehouserequestDesc'
+ModuleWarehouserequestDesc = Warehouserequest description
+
+#
+# Admin page
+#
+WarehouserequestSetup = Warehouserequest setup
+Settings = Settings
+WarehouserequestSetupPage = Warehouserequest setup page
+WAREHOUSEREQUEST_MYPARAM1 = My param 1
+WAREHOUSEREQUEST_MYPARAM1Tooltip = My param 1 tooltip
+WAREHOUSEREQUEST_MYPARAM2=My param 2
+WAREHOUSEREQUEST_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+WarehouserequestAbout = About Warehouserequest
+WarehouserequestAboutPage = Warehouserequest about page
+
+#
+# Sample page
+#
+WarehouserequestArea = Home Warehouserequest
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
